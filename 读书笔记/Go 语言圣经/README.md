@@ -1,0 +1,1 @@
+基于[Go语言圣经 《The Go Programming Language》 中文版本](https://books.studygolang.com/gopl-zh/)
