@@ -5,9 +5,9 @@
 
 ### 前言
 
-这是一个包含三个部分的系列文，它将向你提供对 Go 调度器背后对机制和语义对理解。这是第一篇。本文着重于操作系统调度器。
+这是一个包含三个部分的系列文，它将向你提供对 Go 调度器背后对机制和语义的理解。这是第一篇。本文着重于操作系统调度器。
 
-该序列文三个部分对索引：
+该序列文三个部分的索引：
 1) [Go 调度（第一部分）：OS 调度器](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)  
 2) [Go 调度（第二部分）：Go 调度器](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)  
 3) [Go 调度（第三部分）：并发](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
