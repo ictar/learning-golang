@@ -5,7 +5,7 @@
 [![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/ehdmc5luqjaalihbbm3n.jpg)](https://golangweekly.com/link/144735/web)
 ---  
 
-[Go 1.21 中的配置引导优化（Profile-Guided Optimization (PGO)）](https://golangweekly.com/link/144735/web "go.dev") -- [PGO](https://golangweekly.com/link/144736/web) 最近已经成为了博文的一个热门话题，但这里有一个用它来改进代码的最接近官方使用的示例，包括更深入探讨该过程实现的两项主要优化。如果没有其他办法让你想去尝试下，请考虑一下：_“在 Go 1.21 中，启用 PGO 后，工作负载通常会提高 2% 到 7% 的 CPU 使用率。”_
+[Go 1.21 中的配置引导优化（Profile-Guided Optimization (PGO)）](https://golangweekly.com/link/144735/web "go.dev") —— [PGO](https://golangweekly.com/link/144736/web) 最近已经成为了博文的一个热门话题，但这里有一个用它来改进代码的最接近官方使用的示例，包括更深入探讨该过程实现的两项主要优化。如果没有其他办法让你想去尝试下，请考虑一下：_“在 Go 1.21 中，启用 PGO 后，工作负载通常会提高 2% 到 7% 的 CPU 使用率。”_
 
 _Michael Pratt (The Go Team)_
 
