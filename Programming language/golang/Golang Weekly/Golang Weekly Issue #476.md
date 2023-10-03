@@ -21,7 +21,6 @@ _FusionAuth sponsor_
 
   
 _快速了解：_
-* If you use ChatGPT to help you with your Go code at all, its training cut-off date has changed to January 2022. A side effect of this, I\'ve noticed, is it now recognizes that Go has generics and will emit code using them.
 * 如果你使用 ChatGPT 来帮助自己编写 Go 代码，那么请注意，它的训练截止日期已更改为 2022 年 1 月。我注意到这样做的一个副作用是，它现在认识到 Go 有泛型，并将泛型编写代码。
 * 如果你是 JetBrains 的 _GoLand_ IDE 的粉丝，并且也在使用 Rust，那么请注意，他们已经推出了 [RustRover](https://golangweekly.com/link/145109/web)，这是一个针对 Rust 开发人员的类似 IDE。
 * 你知道[X/Twitter 上有一个 Go _社区_](https://golangweekly.com/link/145111/web)吗？目前已经约 1600 位成员了。
